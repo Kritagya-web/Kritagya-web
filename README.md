@@ -59,8 +59,11 @@
 <a href="https://www.facebook.com/kritagya.kumra"><img src="https://img.shields.io/badge/-kritagya.kumra-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
+<div align="center">
 
-<img alt="Night Coding" src="./assets/code.gif" align="right"/>
+<img alt="Night Coding" src="./assets/code.gif" align="center"/>
+
+</div>
 <br>
 <div align="center">
 
