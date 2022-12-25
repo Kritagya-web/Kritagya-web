@@ -1,4 +1,5 @@
 ![Kritagya Kumra Banner](https://github.com/Kritagya-web/Kritagya-web/blob/main/assets/Kritagya%20Kumra%20Banner.jpg)
+<img alt="Kritagya Kumra Banner" src="./assets/Kritagya%20Kumra%20Banner.jpg" width='40' align="center"/>
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Kritagya</h2>
 
@@ -53,9 +54,9 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://beautiful-stroopwafel-1722a5.netlify.app/#/"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/kritagya-kumra-bba9b41b6/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:kritagyakumra@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/kritagyakumra/"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/kritagya.kumra"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://beautiful-stroopwafel-1722a5.netlify.app/#/"><img src="https://img.shields.io/badge/-Kritagya Kumra-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/kritagya-kumra-bba9b41b6/"><img src="https://img.shields.io/badge/-Kritagya%20Kumra-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:kritagyakumra@gmail.com"><img src="https://img.shields.io/badge/kritagyakumra@gmail.com?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/kritagyakumra/"><img src="https://img.shields.io/badge/kritagyakumra?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/kritagya.kumra"><img src="https://img.shields.io/badge/kritagya.kumra?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
