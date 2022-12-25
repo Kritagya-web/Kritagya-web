@@ -58,3 +58,12 @@
 <a href="https://www.instagram.com/kritagyakumra/"><img src="https://img.shields.io/badge/-kritagyakumra-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/kritagya.kumra"><img src="https://img.shields.io/badge/-kritagya.kumra-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
+
+
+<img alt="Night Coding" src="./assets/code.gif" align="right"/>
+<br>
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
