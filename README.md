@@ -13,7 +13,7 @@
 ✉️ &nbsp;You can shoot me an email at kritagyakumra@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1XvmOASqt3_poL8iRU6-jJWOTzHN1IUHn/view?usp=share_link) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="./assets/code.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
