@@ -1,4 +1,6 @@
-![Kritagya Kumra Banner](https://github.com/Kritagya-web/Kritagya-web/blob/main/assets/Kritagya%20Kumra%20Banner.jpg)
+<div align="center">
+<img alt="Night Coding" src="./assets/Kritagya%20Kumra%20Banner.jpg" align="center"/>
+</div>
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Kritagya</h2>
 
