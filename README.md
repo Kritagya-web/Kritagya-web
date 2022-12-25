@@ -1,5 +1,5 @@
 ![Kritagya Kumra Banner](https://github.com/Kritagya-web/Kritagya-web/blob/main/assets/Kritagya%20Kumra%20Banner.jpg)
-<img alt="Kritagya Kumra Banner" src="./assets/Kritagya%20Kumra%20Banner.jpg" align="center"/>
+<img alt="Kritagya Kumra Banner" src="./assets/Kritagya%20Kumra%20Banner.jpg" align="centre"/>
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Kritagya</h2>
 
@@ -47,7 +47,7 @@
 <p align="center">
 <a href="https://github.com/Kritagya-web">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kritagya-web&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KRitagya-web&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kritagya-web&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
