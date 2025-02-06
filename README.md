@@ -8,12 +8,11 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I've done my BTech in Computer Science and Engineering from the Guru Nanak Dev University, Amritsar.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Machine Learning, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue my coding interests and try to solve new problems.\
-✉️ &nbsp;You can shoot me an email at kritagyakumra@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/17Et_t1eDi8EMj8juhBPo17QQW8ZALqEQ/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+💡 &nbsp;Exploring technologies to develop software solutions and quick hacks.\
+🎓 &nbsp;Pursuing MS in Computer Science from California State University, Los Angeles.\
+🌱 &nbsp;Learning more about Artificial Intelligence, Machine Learning, and Cloud Architecture.\
+✉️ &nbsp;Responding email kritagyakumra@gmail.com .\
+📄 &nbsp;Current Resume [Résumé](https://drive.google.com/file/d/17Et_t1eDi8EMj8juhBPo17QQW8ZALqEQ/view?usp=sharing)
 
 <img alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/>
 
