@@ -12,7 +12,8 @@
 🎓 &nbsp;Pursuing MS in Computer Science from California State University, Los Angeles.\
 🌱 &nbsp;Learning more about Artificial Intelligence, Machine Learning, and Cloud Architecture.\
 ✉️ &nbsp;Responding email kritagyakumra@gmail.com .\
-📄 &nbsp;Current Resume [Résumé](https://drive.google.com/file/d/17Et_t1eDi8EMj8juhBPo17QQW8ZALqEQ/view?usp=sharing)
+📄 &nbsp;Current Resume [Résumé](https://drive.google.com/file/d/1xHs2rJll5hNOTQqWoYw1fjc4ShrjAHQi/view?usp=sharing)
+
 
 <img alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/>
 
